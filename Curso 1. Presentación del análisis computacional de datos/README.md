@@ -2,7 +2,7 @@
 
 ##### Analista de datos  
 Alguien que colecciona, transforma y organiza datos con el fin de ayudar a tomar decisiones fundamentadas
-##### Proceso para en análisis de datos  
+##### Proceso para el análisis de datos  
 - Preguntar  
 - Preparar  
 - Procesar  
@@ -33,13 +33,13 @@ Es la práctica de recopilar y analizar datos sobre las personas que conforman l
 
 **Problematica:** Una organización estaba teniendo una alta tasa de rotación entre los nuevos empleados. Muchos empleados abandonaron la empresa antes del final de su primer año de trabajo. Los analistas utilizaron el proceso de análisis de datos para responder la siguiente pregunta: ¿cómo puede la organización mejorar la tasa de retención de los nuevos empleados?  
 ![ask](./images/ask.jpeg)
-![prepare](./images/prepare.jpeg)
-![process](./images/process.jpeg)
-![analyze](./images/analyze.jpeg)
-![process](./images/ask.jpeg)
-![share](./images/share.jpeg)
-![process](./images/ask.jpeg)
-![act](./images/act.jpeg)
+![prepare](./images/prepare.jpg)
+![process](./images/process.jpg)
+![analyze](./images/analyze.jpg)
+![process](./images/ask.jpg)
+![share](./images/share.jpg)
+![process](./images/ask.jpg)
+![act](./images/act.jpg)
 
 ### Inteligencia de decisiones  
 Es una combinación de la ciencia de datos aplicada y ciencias sociales y gerenciales.
