@@ -32,7 +32,7 @@ La **ciencia de datos** abarca tres disciplinas:
 Es la práctica de recopilar y analizar datos sobre las personas que conforman la fuerza laboral de una empresa con el fin de obtener información para mejorar su funcionamiento. Ser analista de personas implica utilizar el análisis de datos para obtener información sobre los empleados y cómo viven su vida laboral. El conocimiento se utiliza para definir y crear un lugar de trabajo más productivo y empoderador. Esto puede liberar el potencial de los empleados, motivar a las personas a rendir al máximo y garantizar una cultura empresarial justa e inclusiva.  
 
 **Problematica:** Una organización estaba teniendo una alta tasa de rotación entre los nuevos empleados. Muchos empleados abandonaron la empresa antes del final de su primer año de trabajo. Los analistas utilizaron el proceso de análisis de datos para responder la siguiente pregunta: ¿cómo puede la organización mejorar la tasa de retención de los nuevos empleados?  
-![ask](./images/ask.jpeg)
+![ask](./images/ask.jpg)
 ![prepare](./images/prepare.jpg)
 ![process](./images/process.jpg)
 ![analyze](./images/analyze.jpg)
