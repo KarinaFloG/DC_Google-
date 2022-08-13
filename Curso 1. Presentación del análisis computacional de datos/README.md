@@ -13,7 +13,7 @@ Alguien que colecciona, transforma y organiza datos con el fin de ayudar a tomar
 ##### Datos 
 Recopilación de hechos o información  
 
-### Transformación de datos en conocimiento  
+#### Transformación de datos en conocimiento  
 Las empresas utilizan los datos para:  
 - Mejorar procesos.  
 - Identificar oportunidades y tendencias.    
@@ -44,5 +44,19 @@ Es la práctica de recopilar y analizar datos sobre las personas que conforman l
 ### Inteligencia de decisiones  
 Es una combinación de la ciencia de datos aplicada y ciencias sociales y gerenciales.
 
-
+#### Ecosistema de datos  
+### Ecosistema  
+Grupo de elementos que interactúan uno con el otro. Los ecosistemas pueden ser grandes o diminutos.  
+### Ecosistema de datos  
+Se componen de varios elementos que interactúan entre sí para producir, gestionar, almacenar, organizar, analizar y compartir datos. Estos elementos incluyen hardware, software y las personas que los usan.  
+### Cloud  
+Lugar para mantener los datos en línea, en lugar de en el disco duro de una computadora. Los datos se acceden a través de internet. Desempeña un papel importante en el ecosistema de datos.  
+### Ciencia de datos  
+Crear nuevas formas de modelar y entender lo desconocido mediante el uso de datos sin procesar.  
+### Analista de datos  
+Encuentra respuestas a preguntas existentes a partir de las fuentes de datos.
+### Análisis de datos  
+Es la recopilación, tranformación y organización de los datos para sacar conclusiones, hacer predicciones e impulsar una toma de decisiones informada.  
+### Análisis computacional  
+Es la ciencia de los datos. Abarca todo, desde el trabajo de gestión y el uso de los datos, hasta las herramientas y los métodos que los trabajadores de datos utilizan todos los días.
 
