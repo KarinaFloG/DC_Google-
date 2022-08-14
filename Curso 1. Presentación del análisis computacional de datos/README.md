@@ -128,4 +128,9 @@ Los autores Thomas Erl, Wajid Khattak y Paul Buhler propusieron un ciclo de vida
     7. Análisis de datos  
     8. Visualización de datos  
     9. Utilización de los resultados del análisis
-Este ciclo de vida parece tener tres o cuatro pasos más que los modelos de ciclo de vida anteriores. Pero, en realidad, lo que hacen es dividir aquello a lo que nos hemos referido como Preparar y Procesar en pasos más pequeños. Hace hincapié en las tareas individuales necesarias para recopilar, preparar y limpiar datos antes de la fase de análisis.
+Este ciclo de vida parece tener tres o cuatro pasos más que los modelos de ciclo de vida anteriores. Pero, en realidad, lo que hacen es dividir aquello a lo que nos hemos referido como Preparar y Procesar en pasos más pequeños. Hace hincapié en las tareas individuales necesarias para recopilar, preparar y limpiar datos antes de la fase de análisis.  
+**Examen**
+![pregunta 1](./images/ex1_1.jpg)
+![pregunta 2](./images/ex1_2.jpg)
+![pregunta 3](./images/ex1_3.jpg)
+![pregunta 4](./images/ex1_4.jpg)
