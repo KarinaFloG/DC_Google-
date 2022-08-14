@@ -36,9 +36,7 @@ Es la práctica de recopilar y analizar datos sobre las personas que conforman l
 ![prepare](./images/prepare.jpg)
 ![process](./images/process.jpg)
 ![analyze](./images/analyze.jpg)
-![process](./images/ask.jpg)
 ![share](./images/share.jpg)
-![process](./images/ask.jpg)
 ![act](./images/act.jpg)
 
 ### Inteligencia de decisiones  
@@ -61,7 +59,8 @@ Es la recopilación, tranformación y organización de los datos para sacar conc
 Es la ciencia de los datos. Abarca todo, desde el trabajo de gestión y el uso de los datos, hasta las herramientas y los métodos que los trabajadores de datos utilizan todos los días.  
 ### Comprender el ecosistema de datos  
 #### Toma de decisiones basadas en datos  
-Uso de datos para guiar la estrategia empresarial.
+Uso de datos para guiar la estrategia empresarial. Un ejemplo es las sugerencias de spotify de acuerdo a la música más escuchada actualmente o a tu playlist.  
+Para sacar el máximo provecho de la toma de decisiones basada en datos es importante incluir información de personas que estén familirizadas con el problema empresarial. A estas personas les llaman **expertos en la materia** y tienen la capacidad de observar los resultados del análisis de datos e identificar cualquier incoherencia, dar sentido a las zonas grises y eventualmente validar las decisiones que se tomen.
 ### Datos e instinto  
 Los analistas utilizan la toma de decisiones basada en datos y siguen un proceso paso a paso. Has aprendido que hay seis pasos en este proceso:
 1. **Hacer preguntas** y definir el problema.  
