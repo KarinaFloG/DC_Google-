@@ -13,12 +13,12 @@ Gestionas personas asegurandote que saben cómo utilizar los datos correctos par
 En cuanto a los procesos, se trata de asegurarte que el camino hacia la solución sea claro y accesible.  
 Para las herramientas, te aseguras de que se utiliza la tecnología adecuada para el trabajo.  
 #### Examen 1  
-![](./images/ex1_1)
-![](./images/ex1_2)
-![](./images/ex1_3)
-![](./images/ex1_4)
-![](./images/ex1_5)
-![](./images/ex1_6)
-![](./images/ex1_7)
-![](./images/ex1_8)
-![](./images/ex1_9)
+![img1](./images/ex1_1.jpg)
+![img2](./images/ex1_2.jpg)
+![img3](./images/ex1_3.jpg)
+![img4](./images/ex1_4.jpg)
+![img5](./images/ex1_5.jpg)
+![img6](./images/ex1_6.jpg)
+![img7](./images/ex1_7.jpg)
+![img8](./images/ex1_8.jpg)
+![img9](./images/ex1_9.jpg)
