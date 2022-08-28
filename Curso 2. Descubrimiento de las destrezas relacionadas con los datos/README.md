@@ -48,4 +48,6 @@ Una tercera pregunta es **¿qué no hemos tenido en cuenta antes?** Esta es una 
 ![img5](./images/ex2_5.jpg)
 ### *Pensar en los resultados*  
 #### Toma de decisiones basada en datos  
-Implica el uso de hechos para guiar la estrategia empresarial. Proporciona una mayor confianza en la elección y en las habilidades para abordar los desafíos empresariales
+Implica el uso de hechos para guiar la estrategia empresarial. Proporciona una mayor confianza en la elección y en las habilidades para abordar los desafíos empresariales  
+ *Cuartiles:* Un cuartil divide los puntos de datos en cuatro partes iguales o cuartos.  
+ *Organizaciones sin fines de lucro: * Se dedican a promover una cuasa social o defender una iniciativa en particular, como la seguridad alimentaria, la educación o las artes. 
