@@ -1,4 +1,4 @@
-##### El maravilloso mundo de los datos  
+# El maravilloso mundo de los datos  
 ### Seguir el ciclo de vida de los datos  
 Los analistas de datos dan vida a los datos con la herramienta de análisis correcta: hojas de cálculo, bases de datos, lenguajes de consulta y software de visualización.  
 El ***ciclo de vida*** de los datos consiste en:
@@ -12,16 +12,16 @@ El ***ciclo de vida*** de los datos consiste en:
 - **Destruir:** En caso de tener datos en discos duros, deberá utilizarse un software de destrucción de datos seguro. En caso de haber archivos impresos, se triturarán. Todos los respaldos también deben eliminarse.  
 
 El ciclo de vida de los datos proporciona un framework génerico o común sobre cómo se gestionan los datos. Algunas visiones de cómo el gobierno y las instituciones educativas y financieras pueden ver los ciclos de vida de los datos de una manera un poco diferente se muestran a continuación.  
-### Servicio de pesca y vida silvestres de EE.UU.
+#### Servicio de pesca y vida silvestres de EE.UU.
 El servicio de pesca y vida silvestre de los Estados Unidos utiliza el siguiente ciclo de vida de los datos:  
 - Planificar
 - Adquirir
 - Mantener
 - Accede
 - Evaluar
-- Archivar
+- Archivar  
 [U.S. Fish & Wildlife Service](https://www.fws.gov/data/life-cycle)
-### Servicio Geológico de los Estados Unidos (USGS)  
+#### Servicio Geológico de los Estados Unidos (USGS)  
 Ek USGS utiliza elsiguiente ciclo de vida de los datos:  
 - Planificar
 - Adquirir
@@ -32,9 +32,9 @@ Ek USGS utiliza elsiguiente ciclo de vida de los datos:
 También realiza varias actividades transversales o generales durante cada etapa de su ciclo de vida:  
 - Describir (metadaos y documentación)  
 - Gestionar la calidad  
-- Realizar copias de seguridad y asegurar 
+- Realizar copias de seguridad y asegurar   
 [USGS](https://www.usgs.gov/data-management/data-lifecycle) 
-### Instituciones financieras  
+#### Instituciones financieras  
 Las instituciones financieras pueden adoptar un enfoque ligeramente diferente del ciclo de vida de los datos, tal como se describe en *The Data Life Cycle (El ciclo de vida de los datos)*, un artículo publicado en la revista Strategic Finance:
 - Capturar
 - Calificar
@@ -42,9 +42,9 @@ Las instituciones financieras pueden adoptar un enfoque ligeramente diferente de
 - Utilizar
 - Informar
 - Archivar
-- Depurar
+- Depurar  
 [The data life cycle](https://sfmagazine.com/post-entry/july-2018-the-data-life-cycle/) 
-### Escuela de Negocios de Harvard (HBS)  
+#### Escuela de Negocios de Harvard (HBS)  
 Un ciclo de vida final de datos informados en una investigación realizada por la Universidad de Harvard consta de ocho etapas:  
 - Generación
 - Recolección
@@ -53,5 +53,16 @@ Un ciclo de vida final de datos informados en una investigación realizada por l
 - Gestión
 - Análisis
 - Visualización
-- Interpretación
+- Interpretación  
 [Steps in the data life cycle](https://online.hbs.edu/blog/post/data-life-cycle)
+**Caso de estudio**
+![caso1](./img/caso1)
+![caso1](./img/caso1_1)
+![caso1](./img/caso1_2)
+![caso1](./img/caso1_3)
+#### Examen 1  
+![examen1](./img/ex1_1)
+![examen1](./img/ex1_2)
+![examen1](./img/ex1_3)
+![examen1](./img/ex1_4)
+![examen1](./img/ex1_5)
