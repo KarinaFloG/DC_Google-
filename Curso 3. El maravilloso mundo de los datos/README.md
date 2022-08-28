@@ -54,15 +54,16 @@ Un ciclo de vida final de datos informados en una investigación realizada por l
 - Análisis
 - Visualización
 - Interpretación  
-[Steps in the data life cycle](https://online.hbs.edu/blog/post/data-life-cycle)  
+[Steps in the data life cycle](https://online.hbs.edu/blog/post/data-life-cycle)    
+
 **Caso de estudio**
-![caso1](./img/caso1)
-![caso1](./img/caso1_1)
-![caso1](./img/caso1_2)
-![caso1](./img/caso1_3)  
+![caso1](./img/caso1.jpg)
+![caso1](./img/caso1_1.jpg)
+![caso1](./img/caso1_2.jpg)
+![caso1](./img/caso1_3.jpg)  
 #### Examen 1  
-![examen1](./img/ex1_1)
-![examen1](./img/ex1_2)
-![examen1](./img/ex1_3)
-![examen1](./img/ex1_4)
-![examen1](./img/ex1_5)
+![examen1](./img/ex1_1.jpg)
+![examen1](./img/ex1_2.jpg)
+![examen1](./img/ex1_3.jpg)
+![examen1](./img/ex1_4.jpg)
+![examen1](./img/ex1_5.jpg)
