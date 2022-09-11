@@ -67,3 +67,17 @@ Un ciclo de vida final de datos informados en una investigación realizada por l
 ![examen1](./img/ex1_3.jpg)
 ![examen1](./img/ex1_4.jpg)
 ![examen1](./img/ex1_5.jpg)
+### Esbozar el proceso de análisis de datos  
+El análisis de los datos no es un ciclo de vida. Es el proceso de analizar los datos.  
+**Preguntar:** En esta fase se hacen dos cosas. Se deine el problema que se pretende resolver y se asegura de que se entiende plenamente las expectativas de los interesados. 
+Una parte importante de preguntar es entender las expectativas de los interesados. Es necesario definir, quienes son los interesados. Puede haber muchos interesados. Sin embargo, lo que todos tienen en común es que ayudan a tomar decisiones, infuyen en las acciones y estrategias, y tienen objetivos específicos por cumplir.  
+Comunicarse con los interesados es clave para mantener el nivel de compromiso y la concentración en todo momento durante el proyecto.  
+
+**Stakeholders:** Son personas que han dedicado tiempo y recursos a un proyecto, y están interesadas en el resultado.
+Definir un problema significa que observas el estado actual e identificas cómo difiere del estado ideal.  
+**Preparación del proceso de análisis de datos:** En este punto, los analistas de datos recopilan y almacenan datos que usarán para el próximo proceso de análisis. Cualquier decisión que se tome a partir del análisis siempre debe basarse en hechos y ser justa e imparcial.  
+**Proceso:** En este, los analistas de datos ecuentran y eliminan cualquier error e inexactitud que pueda interferir con los resultados. Esto suele implicar la limpieza de los datos, su conversión a un formato más útil, combinar dos o más conjuntos de datos para lograr que la información sea más completa y eliminar los valores atípicos, que son puntos de datos que podrían sesgar la información.  
+**Preparación:** En esta fase, el propósito es que los detalles sean correctos. Así que también se corrigen errores tipográficos, incoherencias o datos inexactos o faltantes.  
+**Analizar:** Analizar los datos recopilados, implica el uso de herramientas para transformar y organizar esta información a fin de poder extraer conclusiones útiles, hacer predicciones e impulsar una toma de decisiones fundamentada.  
+**Compartir:** La visualización es importante para conseguir que otras personas comprendan qué dicen los datos.  
+**Actuar:** Es el momento en que la empresa toma toda la información que el analista de datos, ha proporcionado y la pone a trabajar para resolver el problema inicial del negocio y actuar.  
