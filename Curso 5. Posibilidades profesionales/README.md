@@ -32,3 +32,15 @@ A veces las decisiones basadas en datos pueden ser verdaderas e inequitativas.
 - La ubicación.  
 - Los viajes.  
 - La cultura.  
+
+#### Examen final  
+![examenFinal](./img/exf_1)  
+![examenFinal](./img/exf_2)  
+![examenFinal](./img/exf_3)  
+![examenFinal](./img/exf_4)  
+![examenFinal](./img/exf_5)  
+![examenFinal](./img/exf_6)  
+![examenFinal](./img/exf_7)  
+![examenFinal](./img/exf_8)  
+![examenFinal](./img/exf_9)  
+![examenFinal](./img/exf_10)
