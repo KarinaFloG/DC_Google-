@@ -105,4 +105,23 @@ Para simplificarte la tarea, puedes asignar un nuevo nombre o alias a los nombre
 ![examen2](./img/ex2_2.jpg)  
 ![examen2](./img/ex2_3.jpg)
 ![examen2](./img/ex2_4.jpg)  
-![examen2](./img/ex2_5.jpg) 
+![examen2](./img/ex2_5.jpg)  
+
+#### Visualización de datos  
+Representación gráfica de la información.  
+![visualizacion](./img/visualizacion1.jpg)  
+![visualizacion](./img/visualizacion2.jpg)  
+![visualizacion](./img/visualizacion3.jpg)  
+![visualizacion](./img/visualizacion4.jpg)  
+![visualizacion](./img/visualizacion5.jpg)  
+![visualizacion](./img/visualizacion6.jpg)  
+![visualizacion](./img/visualizacion7.jpg)  
+![visualizacion](./img/visualizacion8.jpg)  
+#### Links para aprendizaje  
+**Tableau**  
+[Video instructivo](https://public.tableau.com/app/resources/learn)  
+[Visualización del día](https://public.tableau.com/app/discover/viz-of-the-day)  
+[Búsqueda de planetas habitables](https://public.tableau.com/app/profile/kimly.scott/viz/Arewealone/AreWeAlone)  
+[Quién habla en peliculas populares](https://public.tableau.com/app/profile/bo.mccready8742/viz/WordDataWorking/WhoIsTalking)  
+**RStudio**  
+[Hojas de referencia](https://www.rstudio.com/resources/cheatsheets/)  
